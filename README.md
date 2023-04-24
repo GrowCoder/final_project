@@ -31,5 +31,15 @@ Once the program is running, you can start drawing shapes and lines using your m
 
 To undo or redo a previous action, click the undo or redo button. To select and move an object, click the select button, and drag the object to a new location.
 
+here is some screenshots of the project:
+
+![main_view](https://github.com/GrowCoder/final_project/blob/master/screen_shots/main_view.png)
+
+![main_shape](https://github.com/GrowCoder/final_project/blob/master/screen_shots/main_shapes.png)
+
+![features_in_motion](https://github.com/GrowCoder/final_project/blob/master/screen_shots/features_in_motion.png)
+
+
+
 Acknowledgments
 This project was created as part of a programming course.
